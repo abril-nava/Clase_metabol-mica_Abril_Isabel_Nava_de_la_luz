@@ -1,0 +1,30 @@
+2+2
+
+#Clase de metabolómica 
+2^(-4)
+
+perro <-15
+ovejas <-2
+perro+ovejas
+
+CHO <-535000
+VERO <- 1350000
+Total <- CHO+VERO
+Total
+
+X <- 35
+Y <-22
+W <-"34"
+Z <- "25"
+
+X+Y
+W+Z
+
+Nombre <- c("Manuel", "Jesus", "Juana", "Yaniv")
+Estatura <- c(1.77, 1.70, 1.60, 1.79)
+Edad <- c(42, 21, 22, 23)
+Mascotas <- c("si", "si", "no", "si")
+
+tabla <- data.frame(Nombre,Estatura, Edad, Mascotas)
+tabla
+View(tabla)
